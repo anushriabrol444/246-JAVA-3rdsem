@@ -120,7 +120,7 @@ class FoodOrder {
 interface DeliveryStatus {
     void update();
 }
-public clss Main {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter customer name: ");
